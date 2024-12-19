@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1733051134 source:d:\joki\transportc++\transport\transportation.cpp
+	"transportation.h"
+	<queue>
+	<unordered_map>
+	<climits>
+
+1733051194 d:\joki\transportc++\transport\transportation.h
+	<iostream>
+
+1733048491 source:d:\joki\transportc++\transport\main.cpp
+	"transportation.h"
+
